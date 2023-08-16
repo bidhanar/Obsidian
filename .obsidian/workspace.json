@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Abhishek Sir Paper/Chapter 1.md",
+                "file": "Obsidian/Abhishek Sir Paper/Chapter 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "3c83881b6795979a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Abhishek Sir Paper/Chapter 1.md",
+                "file": "Obsidian/Abhishek Sir Paper/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Abhishek Sir Paper/Chapter 1.md",
+                "file": "Obsidian/Abhishek Sir Paper/Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Abhishek Sir Paper/Chapter 1.md"
+                "file": "Obsidian/Abhishek Sir Paper/Chapter 2.md"
               }
             }
           }
@@ -149,6 +148,9 @@
   },
   "active": "984b0ac864440036",
   "lastOpenFiles": [
+    "Obsidian/Abhishek Sir Paper/Stalls.md",
+    "Obsidian/Abhishek Sir Paper/Chapter 2.md",
+    "Obsidian/Abhishek Sir Paper/Chapter 1.md",
     "README.md",
     "Obsidian/Talks/Improving Health Outcomes with Physics-based Simulation Methods.md",
     "Obsidian/Templates/Book.md",
@@ -160,14 +162,11 @@
     "Obsidian/Tutorial",
     "Obsidian/Templates",
     "Obsidian/Books",
-    "Obsidian/Abhishek Sir Paper/Chapter 2.md",
     "Obsidian/Abhishek Sir Paper",
     "Obsidian",
     "Obsidian/Tutorial/Fortran.md",
     "Untitled",
-    "Obsidian/Abhishek Sir Paper/Stalls.md",
     "Obsidian/Abhishek Sir Paper/Chapters.md",
-    "Obsidian/Abhishek Sir Paper/Chapter 1.md",
     "Templates/Talks.md",
     "Templates",
     "New folder",
